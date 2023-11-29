@@ -1,7 +1,9 @@
 
   <h1 align="center">Hi 👋, I'm Oscar</h1>
   <h3 align="center">A passionate developer from Colombia</h3>
-  <img display="block" margin="auto" alt="Coding" width="20%" src="https://cdn-icons-gif.flaticon.com/9066/9066292.gif">
+  <div align="center">
+    <img alt="Coding" width="20%" src="https://cdn-icons-gif.flaticon.com/9066/9066292.gif">
+  </div>
   
 
 
