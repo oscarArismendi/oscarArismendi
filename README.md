@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm Oscar</h1>
-<h3 align="center">A passionate developer from Colombia</h3>
 
-<div>
-<img display = "block" margin = "auto" alt="Coding" width="20%" src="https://cdn-icons-gif.flaticon.com/9066/9066292.gif">
+  <h1 align="center">Hi 👋, I'm Oscar</h1>
+  <h3 align="center">A passionate developer from Colombia</h3>
+  <img display="block" margin="auto" alt="Coding" width="20%" src="https://cdn-icons-gif.flaticon.com/9066/9066292.gif">
+  
+
+
+
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscararismendi" alt="oscararismendi" /></a> </p>
   
-</div>
 
 - 🌱 I’m currently learning **Java,c++,Javascript,css and html**
 
