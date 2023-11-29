@@ -24,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oscararismendi&show_icons=true&locale=en" alt="oscararismendi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oscararismendi&" alt="oscararismendi" /></p>
+<a href="https://www.flaticon.com/free-animated-icons/coding" title="coding animated icons">Coding animated icons created by Freepik - Flaticon</a>
