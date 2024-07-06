@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscararismendi" alt="oscararismendi" /></a> </p>
 
 
-- 🌱 I’m currently learning ** hexagonal architecture**
+- 🌱 I’m currently learning **hexagonal architecture**
 
 - 💬 Ask me about **arduino,Java,c++,Javascript,css and html**
 
