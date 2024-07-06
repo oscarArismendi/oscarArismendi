@@ -4,17 +4,17 @@
   <div align="center">
     <img alt="Coding" width="20%" src="https://cdn-icons-gif.flaticon.com/9066/9066292.gif">
   </div>
-  
+  <br />
 
 
 
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscararismendi" alt="oscararismendi" /></a> </p>
-  
 
-- 🌱 I’m currently learning **Java,c++,Javascript,css and html**
 
-- 💬 Ask me about **arduino**
+- 🌱 I’m currently learning ** hexagonal architecture**
+
+- 💬 Ask me about **arduino,Java,c++,Javascript,css and html**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
