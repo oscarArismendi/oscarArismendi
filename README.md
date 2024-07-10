@@ -5,11 +5,12 @@
     <img alt="Coding" width="20%" src="https://cdn-icons-gif.flaticon.com/9066/9066292.gif">
   </div>
   <br />
-
-
-
+  <div align="center">
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Back-end+Developer+in+SpringBoot;Java+%7C+MySQL+%7C+Python+%7C+C%2B%2B+)](https://git.io/typing-svg)
+</div>
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscararismendi" alt="oscararismendi" /></a> </p>
+<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscararismendi" alt="oscararismendi" /></a> </div>
 
 
 - 🌱 I’m currently learning **hexagonal architecture**
@@ -18,49 +19,38 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  oarismendibusiness@gmail.com
+  oarisbusiness@gmail.com
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" styles="text-decoration:none">
-    <img src="https://skillicons.dev/icons?i=arduino" />
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" styles="text-decoration:none">
-    <img src="https://skillicons.dev/icons?i=cpp" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" styles="text-decoration:none">
-    <img src="https://skillicons.dev/icons?i=css" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" styles="text-decoration:none">
-    <img src="https://skillicons.dev/icons?i=html" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" styles="text-decoration:none">
-    <img src="https://skillicons.dev/icons?i=js" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" styles="text-decoration:none">
-    <img src="https://skillicons.dev/icons?i=py" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" styles="text-decoration:none">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-  <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer" styles="text-decoration:none">
-    <img src="https://skillicons.dev/icons?i=java" />
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer" styles="text-decoration:none">
-    <img src="https://skillicons.dev/icons?i=spring	" />
-  </a>
-  <a href="https://www.w3schools.com/git/" target="_blank" rel="noreferrer" styles="text-decoration:none">
-    <img src="https://skillicons.dev/icons?i=git" />
-  </a>
-  <a href="https://docs.github.com/" target="_blank" rel="noreferrer" styles="text-decoration:none">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
+<div align="center">
+  
+  [![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
+  [![C++](https://skillicons.dev/icons?i=cpp)](https://www.w3schools.com/cpp/)
+  [![CSS](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
+  [![HTML](https://skillicons.dev/icons?i=html)](https://www.w3.org/html/)
+  [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org)
+  [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+  [![Java](https://skillicons.dev/icons?i=java)](https://www.w3schools.com/java/)
+  [![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io/projects/spring-boot/)
+  [![Git](https://skillicons.dev/icons?i=git)](https://www.w3schools.com/git/)
+  [![GitHub](https://skillicons.dev/icons?i=github)](https://docs.github.com/)
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oscararismendi&show_icons=true&locale=en&layout=compact" alt="oscararismendi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oscararismendi&show_icons=true&locale=en" alt="oscararismendi" /></p>
+<div align="center" >
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oscararismendi&" alt="oscararismendi" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oscararismendi&show_icons=true&locale=en" alt="oscararismendi" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oscararismendi&" alt="oscararismendi" /></p>
+</div>
+
+<p></p>
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oscararismendi&show_icons=true&locale=en&layout=compact" alt="oscararismendi" />
+</div>
+<p></p>
+
+
+
 <a href="https://www.flaticon.com/free-animated-icons/coding" title="coding animated icons">Coding animated icons created by Freepik - Flaticon</a>
